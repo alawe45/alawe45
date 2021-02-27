@@ -7,10 +7,10 @@
 ### Connect with me:
 
 <a href="https://twitter.com/0k1l1">
-  <img align="left" alt="Ali Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1612900587~hmac=ec77c83ef603777d12ffff54a76d46df" />
+  <img align="left" alt="Ali Twitter" width="22px" src="https://a.top4top.io/p_1884cm3f01.png" />
 </a>
 <a href="https://www.instagram.com/0k1lx/">
-  <img align="left" alt="Ali Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1612900719~hmac=4135ec191d5424e0e7ab397483fc1fcc" />
+  <img align="left" alt="Ali Instagram" width="22px" src="https://b.top4top.io/p_1884bpaiu2.png" />
 </a>
 
 <br />
